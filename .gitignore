@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+LUDUMDARE56/Saved/Telemetry/Telemetry.json
+/LUDUMDARE56/Saved/Telemetry
+*.json
+LUDUMDARE56/Saved/Config/WindowsEditor/Editor.ini
