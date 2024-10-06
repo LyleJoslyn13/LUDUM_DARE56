@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+LUDUMDARE56/Saved/Telemetry/Telemetry.json
+/LUDUMDARE56/Saved/Telemetry
+*.json
+LUDUMDARE56/Saved/Config/WindowsEditor/Editor.ini
+*.bin
+LUDUMDARE56/Saved/Config/CrashReportClient/UECC-Windows-7ECD7FB24E47EC92A5E549AF10450B57/CrashReportClient.ini
