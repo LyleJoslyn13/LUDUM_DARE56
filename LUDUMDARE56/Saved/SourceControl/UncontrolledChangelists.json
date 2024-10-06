@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/CVL301/Documents/GitHub/LUDUM_DARE56/LUDUMDARE56/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/CVL301/Documents/GitHub/LUDUM_DARE56/LUDUMDARE56/Content/ViewmodelAssets/Net_RiggedAnim_Anim.uasset",
+				"C:/Users/CVL301/Documents/GitHub/LUDUM_DARE56/LUDUMDARE56/Content/ViewmodelAssets/Net_RiggedAnim_Anim1.uasset",
+				"C:/Users/CVL301/Documents/GitHub/LUDUM_DARE56/LUDUMDARE56/Content/Animations/APB_Net.uasset",
+				"C:/Users/CVL301/Documents/GitHub/LUDUM_DARE56/LUDUMDARE56/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/CVL301/Documents/GitHub/LUDUM_DARE56/LUDUMDARE56/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/CVL301/Documents/GitHub/LUDUM_DARE56/LUDUMDARE56/Content/ViewmodelAssets/Net_RiggedAnim_Anim_Montage.uasset",
+				"C:/Users/CVL301/Documents/GitHub/LUDUM_DARE56/LUDUMDARE56/Content/ViewmodelAssets/Net_RiggedAnim_Anim1_Montage.uasset",
+				"C:/Users/CVL301/Documents/GitHub/LUDUM_DARE56/LUDUMDARE56/Content/FirstPerson/Input/Actions/IA_Melee.uasset",
+				"C:/Users/CVL301/Documents/GitHub/LUDUM_DARE56/LUDUMDARE56/Content/Components/BPC_Melee.uasset",
 				"C:/istg/yonnensei/SEMINAR/LotF_Git/LUDUM_DARE56/LUDUMDARE56/Content/MoveableCharacters/Blueprints/BP_MoveableCharacter.uasset",
 				"C:/istg/yonnensei/SEMINAR/LotF_Git/LUDUM_DARE56/LUDUMDARE56/Content/MoveableCharacters/Blueprints/BP_EnemyCharacter.uasset",
 				"C:/istg/yonnensei/SEMINAR/LotF_Git/LUDUM_DARE56/LUDUMDARE56/Content/MoveableCharacters/Blueprints/BP_RoamingBug.uasset",
@@ -195,8 +205,7 @@
 				"C:/istg/yonnensei/SEMINAR/LotF_Git/LUDUM_DARE56/LUDUMDARE56/Content/__ExternalActors__/MoveableCharacters/PathfindingTesting/4/96/XIPBG1U6RRKE55NC9EF030.uasset",
 				"C:/istg/yonnensei/SEMINAR/LotF_Git/LUDUM_DARE56/LUDUMDARE56/Content/MoveableCharacters/Blueprints/BP_TestTankEnemy.uasset",
 				"C:/istg/yonnensei/SEMINAR/LotF_Git/LUDUM_DARE56/LUDUMDARE56/Content/__ExternalActors__/MoveableCharacters/PathfindingTesting/8/8M/1Q57M0ZOFQFJYDZO7J3CIH.uasset",
-				"C:/istg/yonnensei/SEMINAR/LotF_Git/LUDUM_DARE56/LUDUMDARE56/Content/__ExternalActors__/MoveableCharacters/PathfindingTesting/7/17/2DKGBHSPEC9IQPDGLOMUQY.uasset",
-				"C:/Users/CVL301/Documents/GitHub/LUDUM_DARE56/LUDUMDARE56/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"C:/istg/yonnensei/SEMINAR/LotF_Git/LUDUM_DARE56/LUDUMDARE56/Content/__ExternalActors__/MoveableCharacters/PathfindingTesting/7/17/2DKGBHSPEC9IQPDGLOMUQY.uasset"
 			]
 		}
 	]
